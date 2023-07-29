@@ -39,7 +39,3 @@ The objective of this exercise is to compare the execution time of data processi
 ![oracle](https://github.com/aslihanaltun/HazelcastOracleComparison/assets/70285896/344771b8-7f56-407e-b34d-27c457067a03)
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
